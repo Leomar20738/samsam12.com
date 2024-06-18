@@ -1,0 +1,26 @@
+header{
+    background-color: coral;
+    padding:10px;
+}
+body{
+    margin: 0px;
+    background-color: coral;
+}
+nav{
+    list-style: none;
+    display: flex;
+    color: blue;
+    background-color:blueviolet;
+}
+li{
+    margin: 20px;
+    font-size: 50px;
+    text align-items:center ;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
